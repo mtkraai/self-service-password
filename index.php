@@ -195,6 +195,7 @@ $mailer->LE            = $mail_newline;
        }
   </style>
 <?php } ?>
+    <script src="js/jquery-3.3.1.min.js"></script>
 </head>
 <body>
 
@@ -234,7 +235,6 @@ $mailer->LE            = $mail_newline;
 
 </div>
 
-<script src="js/jquery-3.3.1.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script>
     $(document).ready(function(){
